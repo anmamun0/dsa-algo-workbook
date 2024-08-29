@@ -1,0 +1,3 @@
+ if(head == NULL){
+        return;
+    }

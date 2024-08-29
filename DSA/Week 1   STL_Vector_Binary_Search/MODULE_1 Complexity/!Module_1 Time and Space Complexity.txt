@@ -1,0 +1,14 @@
+	
+Module 01: Time and Space Complexity
+
+	0. Introduaction
+	1. What is The Complexity
+	2. How time is claculated from thime complexity
+	3. O(N) Time Complexity
+	4. O(logN) Time Complexity
+	5. O(sqrt(N)) Time Complexity
+	6. O(N*N) Time Complexity
+	7. O(Nlog(N)) Time Complexity
+	8. What is Space Complexity
+	9. Summary
+	10. Quize

@@ -1,0 +1,15 @@
+
+
+Module 05 Singly Linked List 
+
+	0.  Intorducing
+	1.  Why Linked list -I
+	2.  Why Linked List -II
+	3.  Create a Node
+	4.  Constructor of Node
+	5.  Dynamic Node
+	6.  creation of Single Linked list Animated
+	7.  Printing Singly Linked list
+	8.  Printing single Linked list Animated
+	9.  Summary
+	10. Quiz

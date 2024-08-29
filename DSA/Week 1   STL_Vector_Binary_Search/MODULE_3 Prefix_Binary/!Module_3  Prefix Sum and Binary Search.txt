@@ -1,0 +1,14 @@
+
+Module 03: Prefix Sum and Binary Search:
+
+	0. Introduction
+	1. Range sum query
+	2. Idea of Prefix sum Array
+	3. Prefix Sum Array Implemented
+	4. Prefix Sum Array Animated
+	5. Idea of Binary Search Algorithm
+	6. Binary Search Algorithm Animated
+	7. Binary Search Apply - I
+	8. Binary Search Apply - II
+	9. Summary
+	10. Quiz:
