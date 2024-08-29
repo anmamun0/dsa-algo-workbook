@@ -1,0 +1,47 @@
+Today Topic: Binary Tree
+
+Practice Day 1: 18.5 :
+Coding Ninja Links:
+1. Postorder Traversal   --https://www.codingninjas.com/studio/problems/name_2035933
+2. Preorder Binary Tree  --https://www.codingninjas.com/studio/problems/preorder-binary-tree_5948
+3. Inorder Traversal 	 --https://www.codingninjas.com/studio/problems/inorder-traversal_3839605
+4. Level Order Traversal --https://www.codingninjas.com/studio/problems/level-order-traversal_796002
+5. Count Leaf Nodes 	 --https://www.codingninjas.com/studio/problems/count-leaf-nodes_893055
+6. Left Sum		 --https://www.codingninjas.com/studio/problems/left-sum_920380
+7. Height of Binary Tree --https://www.codingninjas.com/studio/problems/tree-height_4609628
+
+Conseptiual Session 1; 
+Leetcode Links:
+1. Root equls sum of Children	--https://leetcode.com/problems/root-equals-sum-of-children/description/
+2. Evaluate Boolean Binary Tree	--https://leetcode.com/problems/evaluate-boolean-binary-tree/description/
+3. Invert Binary Tree		--https://leetcode.com/problems/invert-binary-tree/description/
+4. Maximum Depth of Binary Tree	--https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+5. Univalued Binary Tree	--https://leetcode.com/problems/univalued-binary-tree/description/
+
+Module 19:
+Coding Ninjas Linkes:		
+1.Is Node Present? 		--https://www.codingninjas.com/studio/problems/code-find-a-node_5682
+2.Node Level			--https://www.codingninjas.com/studio/problems/node-level_920383
+3.Left View Of a Binary Tree	--https://www.codingninjas.com/studio/problems/left-view-of-a-binary-tree_920519
+4.Diameter Of Binary Tree	--https://www.codingninjas.com/studio/problems/diameter-of-the-binary-tree_920552
+5.Special Binary Tree.		--https://www.codingninjas.com/studio/problems/special-binary-tree_920502
+6.Reverse Level Order Traversal	--https://www.codingninjas.com/studio/problems/reverse-level-order-traversal_764339
+
+
+
+Practice Day 2: 19.5;
+Sloved 5 Problem's in LeetCode:
+1. Root Equals Sum of Children	--https://leetcode.com/problems/root-equals-sum-of-children/
+2. Univalued Binary Tree	--https://leetcode.com/problems/univalued-binary-tree/
+3. Leaf Similar Trees		--https://leetcode.com/problems/leaf-similar-trees/
+4. Same Tree			--https://leetcode.com/problems/same-tree/
+5. Binary Tree Tilt		--https://leetcode.com/problems/binary-tree-tilt/
+
+
+
+Conseptual Session 2:++
+Leetcode Links:
+1.Same Tree				--https://leetcode.com/problems/same-tree/description/
+2.Binary Tree Tilt			--https://leetcode.com/problems/binary-tree-tilt/description/
+3.Leaf-Similar Trees			--https://leetcode.com/problems/leaf-similar-trees/description/
+4. Reverse Odd Levels of Binary Tree	--https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/
