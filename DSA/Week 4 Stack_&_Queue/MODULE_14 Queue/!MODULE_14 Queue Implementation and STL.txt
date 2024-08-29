@@ -1,0 +1,13 @@
+MODULE_14 Queue Implementation and STL:
+
+	1. Introduction
+	2. What is Queue
+	3. Real Life Application of Queue Animation
+	4. Queue Implement Using Singly LInked List
+	5. Queue Implement using Doubly Linked List
+	6. Queue Implement Using STL List
+	7. STL Queue
+	8. Implement Stack using Queue(LeetCode)
+	9. Implement Queue using Stacks(LeetCode)
+	10. Summary
+	11. Quiz

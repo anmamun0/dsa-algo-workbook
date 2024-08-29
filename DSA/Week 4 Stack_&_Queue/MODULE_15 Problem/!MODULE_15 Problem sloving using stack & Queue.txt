@@ -1,0 +1,11 @@
+
+MODULE 15: Problem sloving using stack & Queue
+
+	1. Problem Links
+	2. Instroduction
+	3. Valid Parentheses - LeetCode
+	4. Backspace String Compare - LeetCode
+	5. Insert An Element At Its Bottom In A Given Stack - Coding Ninjas
+	6. Maximum Equal Stack Sum
+	7. Reversing a Queue - Coding Ninjas
+	8. Reverse Stack Using Recursion

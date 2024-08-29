@@ -1,0 +1,14 @@
+
+Module 09 : STL List List and Cycle Dectetion
+
+	1. Introduction
+	2. List Constructions
+	3. List Capacity Functions
+	4. List Modifiers Functions
+	5. List Operations and Access Related Funcitons
+	6. Reverse Singly Linked List Animated
+	7. Reverse Doubly Linked List 
+	8. Detect Cycle in Singly Linked List
+	9. Delete Operations 
+	10. Summary
+	11. Quiz

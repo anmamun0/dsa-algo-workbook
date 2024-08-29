@@ -1,0 +1,16 @@
+
+MODULE_09 : Doubly Linked List
+
+	1. Intorduciton
+	2. Doubly Linked List
+	3. Doubly Linked List
+	4. Doubly Linked List Animated
+	5. Insert at any Position in Doubly linked List
+	6. Insert at head and Tail in Doubly Linked List 
+	7. Insert Operation on Doubly lInked List Animated
+	8. Delete Operations on Doubly lInked List 
+	9. Complexity Analysis
+	10. Delete Operations on Doubly Linked List Animated
+	11. Take Doubly Linked List Input
+	12. Summary
+	13. Quize
