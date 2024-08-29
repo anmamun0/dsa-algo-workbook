@@ -1,0 +1,12 @@
+
+MODULE 02: Breadth Furst Search
+	0. Introduction
+	1. BFS Traversal
+	2. BFS Traversal Implementation
+	3. BFS Traversal Animated
+	4. BFS Traversal with level tracking 
+	5. complexity analysis of BFS
+	6. Path printing using BFS
+	7. Path Printing using BFS Implementation
+	8. Summary
+	9. Quiz

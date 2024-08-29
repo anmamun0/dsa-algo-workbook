@@ -1,0 +1,47 @@
+MODULE_1: Basics of Graph and Representations
+	Introduciton
+	Basic of Graph 
+	Types of Graph Animated
+	Adjacnency Matrix 
+	Adjacency matrix Implementation
+	Adjacency List
+	Adjacency List Implementation
+	STL Pair
+	Edge list
+	Graph representations animatated
+	Summary
+	Quize
+
+MODULE_2: Breadth First Search(BFS)
+
+	Introduction 
+	BFS traversal 
+	BFS traversal iplementation
+	BFS traversal animated
+	BFS Traversal with level Tracking
+	Complexity Analysis of BFS
+	Path Printing using BFS
+	Path printion using BFS Implementation
+	Summary
+
+MODULE_4: Depth First Search and 2D Grid (DFS)
+
+	Introduction
+	Depth First Search
+	Depth First Search Implementation
+	DFS Alforithm Animated
+	DFS on 2D Grid
+	DFS on 2D Grid Implementation
+	DFS on 2D Frid Animated
+	BFS on 2d GRid Implementation
+	Summary
+	Components[Bonus]
+	Quiz
+
+
+MODULE_4 : ASSIGNMENT 01
+
+কন্টেস্ট লিংক: https://www.hackerrank.com/contests/assignment-01-a-introduction-to-algorithms-a-batch-04/challenges
+
+
+
