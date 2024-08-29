@@ -1,0 +1,16 @@
+Module 0:
+	1. Orentation welcome
+	2. Course curriculum and course alignment
+	3. Assessment grading and evaluation
+	4. Build a routine and adjust aroutine based on situation
+	5. Little overview of exams assignments and deadlines
+	6. Best way to get support from this course
+	7. How to get best out come from this course
+	8. How to Join support session
+	9. How to use meet for support session
+	10. Website hard reload and cooked clear 
+	11. Install vs code , Git Bash and Zoom
+	12. Setup and vs code compiler 
+	13. setup vs code and run c program in Mac
+	14. setup shortcut key and input Output
+	15. CodeBloacks Setup

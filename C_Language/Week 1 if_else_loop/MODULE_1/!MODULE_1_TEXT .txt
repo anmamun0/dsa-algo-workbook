@@ -1,0 +1,13 @@
+Module 1:
+	1. Introduction
+	2. Basic Structure of C Progaramming Animated
+	3. Fast C Program Animated 
+	4. Understand How to Print in C
+	5. Run Fast C Program 
+	6. Variables and Data Types Animated
+	7. Variables and Data Types
+	8. Why we Need to Take Input Animated
+	9. How to take input in C
+	10. Data type Limitatins Animation
+	11. Data Types Limitations in C
+	12. Rules of Naming Variables Animated
